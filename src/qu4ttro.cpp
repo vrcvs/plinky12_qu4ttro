@@ -6,7 +6,7 @@
 @Tags: plonky, multitrack, looper, sequencer, polyrhythm, chords-panel
 @Description: Four melodic tracks side by side, plonky-style (columns a fifth apart, always in scale), each with its own live/step looper, length, grid and direction: polyrhythmic loops on the Plinky 12.
 
-QU4TTRO by VRCVS - https://filipporieder.com
+QU4TTRO by VRCVS - https://instagram.com/vrcvs
 Manual (IT/EN): see the QU4TTRO_by_VRCVS PDFs published with this panel.
 
 CREDITS
