@@ -36,7 +36,7 @@ Four melodic tracks side by side, plonky-style: each 8×6 sector is a set of str
 
 - Freely inspired by **[plonky](https://github.com/schollz/plonky)**, the norns script by Zack Scholl (MIT), itself inspired by mmalex's original Plinky. No plonky code is used: QU4TTRO is a new implementation.
 - **Plinky 12** by mmalex and Making Sound Machines.
-- QU4TTRO by **VRCVS** (Filippo Rieder) – Instagram [@vrcvs](https://instagram.com/vrcvs). Written with the help of Claude (Anthropic).
+- QU4TTRO by **VRCVS** (Filippo Rieder) – Instagram [@vrcvs](https://www.instagram.com/vrcvs). Written with the help of Claude (Anthropic).
 
 ## License
 
