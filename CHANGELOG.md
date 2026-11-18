@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.1 – November 2026
+Up to 4 of your own multisample banks at once.
+- Auditioning in the alternative SD browser no longer needs memory for an extra bank: if the track already has one of your banks, the audition happens on the track's own slot and ✖ puts the old sound back
+- The song remembers which SD bank each track uses
+- Choosing a factory sound with the system picker clears that link
+- Manuals: section 10 explains the 14 MB sample memory and the Bank Builder "Banks loaded together: 4" option (about 3 MB per bank)
+
 ## 1.0.1 – November 2026
 Synced with the version in the official Plinky community-panels library (fixes by the Plinky team, thanks!).
 - Fixed: loop lengths, grids, cues and other per-track settings of tracks 3 and 4 were not saved with the song

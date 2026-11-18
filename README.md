@@ -29,7 +29,7 @@ Four melodic tracks side by side, plonky-style: each 8×6 sector is a set of str
 
 ## Notes
 
-- Very large multisample banks (around 8 MB) take a long time to load onto a track, and only one or two fit in the Plinky's sample memory at once. Lighter banks (about 1–2 MB) let you use your own sounds on all four tracks. Factory sounds load instantly.
+- The Plinky keeps the samples of all loaded sounds in 14 MB of flash. A full-quality Bank Builder bank (6–8 MB) leaves room for one more at most. To use **4 of your own banks at once**, build them in the [Bank Builder](https://vrcvs.github.io/plinky12_bank_builder/) with **Banks loaded together: 4** (about 3 MB each). The same bank on several tracks counts once; factory sounds are small.
 - Tested on Plinky 12 with the Chords faceplate. Use at your own risk: custom firmware can always be restored from the Plinky 12 firmware page.
 
 ## Credits
