@@ -5,6 +5,7 @@ Up to 4 of your own multisample banks at once.
 - Auditioning in the alternative SD browser no longer needs memory for an extra bank: if the track already has one of your banks, the audition happens on the track's own slot and ✖ puts the old sound back
 - The song remembers which SD bank each track uses
 - Choosing a factory sound with the system picker clears that link
+- Song page: QU4TTRO creates its song folder on the SD card the first time the page opens; before, on a card where it had never saved, the OK pad stayed dark and nothing could be saved
 - Loading a saved song now sets up the playback and browser state (on_load_finished), as the Plinky team fixed in N3VE: the audition always uses the right slot after a reload
 - Manuals: section 10 explains the 14 MB sample memory and the Bank Builder "Banks loaded together: 4" option (about 3 MB per bank)
 
